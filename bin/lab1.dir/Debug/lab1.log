@@ -1,0 +1,49 @@
+﻿  22 File(s) copied
+  22 File(s) copied
+  Building Custom Rule C:/Users/user/Desktop/Lab KingsVsSnakes2/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/user/Desktop/Lab KingsVsSnakes2/bin/CMakeFiles/generate.stamp is up-to-date.
+  Bullet.cpp
+c:\users\user\desktop\lab kingsvssnakes2\src\EnemySnakes.h(19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\user\Desktop\Lab KingsVsSnakes2\src\Bullet.cpp(5): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\Lab KingsVsSnakes2\src\Bullet.cpp(33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  CastleClass.cpp
+C:\Users\user\Desktop\Lab KingsVsSnakes2\src\CastleClass.cpp(5): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\Lab KingsVsSnakes2\src\CastleClass.cpp(36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  CollisionController.cpp
+c:\users\user\desktop\lab kingsvssnakes2\src\EnemySnakes.h(19): warning C4305: 'initializing': truncation from 'double' to 'float'
+  EnemySnakes.cpp
+c:\users\user\desktop\lab kingsvssnakes2\src\EnemySnakes.h(19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\user\Desktop\Lab KingsVsSnakes2\src\EnemySnakes.cpp(5): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\Lab KingsVsSnakes2\src\EnemySnakes.cpp(68): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Keys.cpp
+  LevelSprites.cpp
+  Player.cpp
+C:\Users\user\Desktop\Lab KingsVsSnakes2\src\Player.cpp(38): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\user\Desktop\Lab KingsVsSnakes2\src\Player.cpp(39): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\user\Desktop\Lab KingsVsSnakes2\src\Player.cpp(61): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  ScreenText.cpp
+C:\Users\user\Desktop\Lab KingsVsSnakes2\src\ScreenText.cpp(242): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Lab KingsVsSnakes2\src\ScreenText.cpp(266): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\Lab KingsVsSnakes2\src\ScreenText.cpp(267): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\Lab KingsVsSnakes2\src\ScreenText.cpp(270): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\user\Desktop\Lab KingsVsSnakes2\src\ScreenText.cpp(270): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\Lab KingsVsSnakes2\src\ScreenText.cpp(273): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\user\Desktop\Lab KingsVsSnakes2\src\ScreenText.cpp(273): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\Lab KingsVsSnakes2\src\ScreenText.cpp(301): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.14393.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  ShootController.cpp
+c:\users\user\desktop\lab kingsvssnakes2\src\EnemySnakes.h(19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\user\Desktop\Lab KingsVsSnakes2\src\ShootController.cpp(75): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Vector2D.cpp
+  main.cpp
+c:\users\user\desktop\lab kingsvssnakes2\src\EnemySnakes.h(19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\user\Desktop\Lab KingsVsSnakes2\src\main.cpp(47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Desktop\Lab KingsVsSnakes2\src\main.cpp(462): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Lab KingsVsSnakes2\src\main.cpp(498): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\user\Desktop\Lab KingsVsSnakes2\src\main.cpp(643): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\Desktop\Lab KingsVsSnakes2\src\main.cpp(705): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+     Creating library C:/Users/user/Desktop/Lab KingsVsSnakes2/bin/lib/lab1.lib and object C:/Users/user/Desktop/Lab KingsVsSnakes2/bin/lib/lab1.exp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  lab1.vcxproj -> C:\Users\user\Desktop\Lab KingsVsSnakes2\bin\bin\lab1.exe
+  lab1.vcxproj -> C:/Users/user/Desktop/Lab KingsVsSnakes2/bin/bin/lab1.pdb (Full PDB)

@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/Lab KingsVsSnakes2/bin/CMakeFiles/lab1.dir
+C:/Users/user/Desktop/Lab KingsVsSnakes2/bin/CMakeFiles/ALL_BUILD.dir
+C:/Users/user/Desktop/Lab KingsVsSnakes2/bin/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,8 @@
+{
+  "shoot": "space",
+  "moveUp": "W",
+  "moveDown": "S",
+  "menuUp": "up",
+  "menuDown": "down",
+  "menuConfirm" :  "return"
+}
